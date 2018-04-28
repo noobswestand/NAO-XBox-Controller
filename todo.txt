@@ -1,0 +1,7 @@
+Have "back" toggle on + off autonomious life
+
+crouching
+
+Walking with DPad
+
+Head control on right joystick
